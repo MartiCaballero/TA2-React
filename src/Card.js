@@ -1,5 +1,5 @@
 import React from 'react';
-import './Card.css'; // Mantén los estilos o ajustalos según lo necesites
+import './Card.css'; 
 
 const Card = ({ children }) => {
   return (
